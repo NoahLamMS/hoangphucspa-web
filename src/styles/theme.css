@@ -1,0 +1,8 @@
+/* NƠI DUY NHẤT chứa màu và font thương hiệu (cùng src/app/fonts.ts). Token đặt theo VAI TRÒ. */
+@theme inline {
+  --color-brand-primary: #2563eb; /* màu chủ đạo (nút, link, nhấn) */
+  --color-brand-primary-strong: #1d4ed8; /* hover, trạng thái đậm */
+  --font-display: var(--font-heading-face); /* tiêu đề lớn; mặc định dùng chung font tiêu đề */
+  --font-heading: var(--font-heading-face); /* Be Vietnam Pro */
+  --font-sans: var(--font-body-face); /* Inter: nội dung */
+}
